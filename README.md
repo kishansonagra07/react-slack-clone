@@ -17,4 +17,4 @@ npm install
 npm run start
 ```
 
-Browse to http://localhost:3000, create the room chat with colleagues.
+Browse to http://localhost:3000, create the room and chat with colleagues.
